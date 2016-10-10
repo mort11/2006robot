@@ -1,0 +1,2 @@
+Error[1105] C:\mort\mort_code_2006\terminal.c 79 : symbol 'PAN_SERVO' has not been defined
+Error[1105] C:\mort\mort_code_2006\terminal.c 82 : symbol 'TILT_SERVO' has not been defined
